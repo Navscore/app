@@ -1,0 +1,111 @@
+<html>
+	<head>
+		<title>NAVSCOREAPP.COM  - Live Sports Events</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="/assets/favicon.png" type="image/x-icon">
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+<!-- Messenger Chat Plugin Code -->
+    <div id="fb-root"></div>
+<head><meta name="purpleads-verification" content="87fee2dc05931e13921063cc"/></head> 
+    <!-- Your Chat Plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "104255658415676");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+	
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="fas fa-tv"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>NAVSCOREAPP.COM</h1>
+								<p>Watch football live streaming HD online Today!</p>
+
+							</div>
+						</div>
+						<nav>
+							<ul>
+								
+							</ul>
+						</nav>
+						<a href='https://navscoreapp.com/app.apk' target="_blank"><img alt='Get it on Google Play' src='https://navscoreapp.com/apk.png' height="100"/></a>
+					</header>
+
+	</nav>
+		
+				
+						<a href='https://drive.google.com/file/d/1pIoZ0H118C4QwHNFnechsNinwv2iiktI/view?usp=drivesdk' target="_blank"><img alt='Get it on Google Play' src='https://navscoreapp.com/drive.png' height="100"/></a>
+					</header>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy;NAVSCOREAPP.COM</p>
+						
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-K9YVEF36GX"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-K9YVEF36GX');
+</script>
+		<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CGHT7TY1CE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CGHT7TY1CE');
+</script>																										
+	</body>
+	<script id="_wauqak">var _wau = _wau || []; _wau.push(["classic", "x254w5fas2", "qak"]);</script><script async src="//waust.at/c.js"></script>
+</html>
